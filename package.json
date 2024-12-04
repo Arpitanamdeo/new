@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "db": "^6.0.3",
+    "express": "^4.21.1",
+    "mongosh": "^2.3.4",
+    "twilio": "^5.3.6"
+  }
+}

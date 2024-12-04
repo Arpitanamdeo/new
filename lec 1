@@ -1,0 +1,16 @@
+sum()
+function sum(){
+
+    console.log("hi");
+
+};
+add();
+let add=function(){
+console.log("k");
+};
+sub ();//here sub is call and
+var sub =function(){
+    console.log("1")
+};
+
+
